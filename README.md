@@ -11,12 +11,11 @@
 
 ### How to run it
 
-[Install uv](https://docs.astral.sh/uv/getting-started/installation/#installation-methods)
+1. [Install uv](https://docs.astral.sh/uv/getting-started/installation/#installation-methods)
 
-Run package:
-
-```bash
-uvx --from git+https://github.com/experiment0/python-project-49.git brain-even
-```
-
-[![asciicast](https://asciinema.org/a/HLBL4x9kW4PGCRexZFFzM2i5E.svg)](https://asciinema.org/a/HLBL4x9kW4PGCRexZFFzM2i5E)
+2. Run package:
+   ```bash
+   uvx --from git+https://github.com/experiment0/python-project-49.git brain-even
+   ```
+3. Play:
+   [![asciicast](https://asciinema.org/a/HLBL4x9kW4PGCRexZFFzM2i5E.svg)](https://asciinema.org/a/HLBL4x9kW4PGCRexZFFzM2i5E)
