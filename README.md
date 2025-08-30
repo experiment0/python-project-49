@@ -9,7 +9,7 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=experiment0_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=experiment0_python-project-49)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=experiment0_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=experiment0_python-project-49)
 
-### How to run it
+### How to use it
 
 1. [Install uv](https://docs.astral.sh/uv/getting-started/installation/#installation-methods)
 
