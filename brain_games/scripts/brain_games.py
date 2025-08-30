@@ -1,9 +1,10 @@
 from brain_games.cli import welcome_user
 
 
-def main():
-    print("Welcome to the Brain Games!")
-    welcome_user()
+def main() -> None:
+    """Точка входа в проект
+    """
+    user_name = welcome_user()
 
 
 if __name__ == "__main__":
