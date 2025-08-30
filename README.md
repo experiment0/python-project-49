@@ -1,4 +1,4 @@
-### Hexlet tests and linter status:
+### Hexlet tests and linter status
 
 [![Actions Status](https://github.com/experiment0/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/experiment0/python-project-49/actions)
 
@@ -9,8 +9,14 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=experiment0_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=experiment0_python-project-49)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=experiment0_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=experiment0_python-project-49)
 
-### How to run it:
+### How to run it
+
+[Install uv](https://docs.astral.sh/uv/getting-started/installation/#installation-methods)
+
+Run package:
 
 ```bash
-uvx --from git+https://github.com/experiment0/python-project-49.git brain-games
+uvx --from git+https://github.com/experiment0/python-project-49.git brain-even
 ```
+
+[![asciicast](https://asciinema.org/a/HLBL4x9kW4PGCRexZFFzM2i5E.svg)](https://asciinema.org/a/HLBL4x9kW4PGCRexZFFzM2i5E)
