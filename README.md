@@ -18,4 +18,4 @@
    uv tool install --force git+https://github.com/experiment0/python-project-49.git
    ```
 3. Play
-   [![asciicast](https://asciinema.org/a/7RcK9TgMara8VY9tKcA0FJPGP.svg)](https://asciinema.org/a/7RcK9TgMara8VY9tKcA0FJPGP)
+   [![asciicast](https://asciinema.org/a/JktqrmcsLVbSG1ntHaYgxmy2Q.svg)](https://asciinema.org/a/JktqrmcsLVbSG1ntHaYgxmy2Q)
