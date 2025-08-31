@@ -15,7 +15,7 @@
 
 2. Install package
    ```bash
-   uv tool install git+https://github.com/experiment0/python-project-49.git
+   uv tool install --force git+https://github.com/experiment0/python-project-49.git
    ```
 3. Play
    [![asciicast](https://asciinema.org/a/HdUCwO8rt4fthCtlKdLP7Z0Z4.svg)](https://asciinema.org/a/HdUCwO8rt4fthCtlKdLP7Z0Z4)
