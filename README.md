@@ -13,9 +13,9 @@
 
 1. [Install uv](https://docs.astral.sh/uv/getting-started/installation/#installation-methods)
 
-2. Run package:
+2. Install package
    ```bash
-   uvx --from git+https://github.com/experiment0/python-project-49.git brain-even
+   uv tool install git+https://github.com/experiment0/python-project-49.git
    ```
-3. Play:
-   [![asciicast](https://asciinema.org/a/HLBL4x9kW4PGCRexZFFzM2i5E.svg)](https://asciinema.org/a/HLBL4x9kW4PGCRexZFFzM2i5E)
+3. Play
+   [![asciicast](https://asciinema.org/a/HdUCwO8rt4fthCtlKdLP7Z0Z4.svg)](https://asciinema.org/a/HdUCwO8rt4fthCtlKdLP7Z0Z4)
