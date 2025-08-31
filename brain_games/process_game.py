@@ -1,25 +1,25 @@
-from typing import Callable, Tuple
+from typing import Callable
 
-from brain_games.cli import welcome_user
-from brain_games.config import ROUNDS_COUNT
-from brain_games.scripts.dialogue_messages import (
+from brain_games import ROUNDS_COUNT, QuestionWithAnswer
+from brain_games.dialogue_messages import (
     display_error,
     display_question,
     display_success,
     display_victory,
     get_user_answer,
+    welcome_user,
 )
 
 
 def process_game(
     instruction: str,
-    generate_question: Callable[[], Tuple[str, str]],
+    generate_question: Callable[[], QuestionWithAnswer],
 ) -> None:
     """Реализует процесс игры из нескольких раундов
 
     Args:
         instruction (str): инструкция для пользователя
-        generate_question (Callable[[], Tuple[str, str]]): 
+        generate_question (Callable[[], QuestionWithAnswer]): 
             фукнция, которая возвращает вопрос для пользователя 
             и эталонный ответ
     """
