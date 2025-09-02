@@ -2,7 +2,7 @@ from math import gcd
 from random import randint
 
 from brain_games import QuestionWithAnswer
-from brain_games.process_game import process_game
+from brain_games.games.process_game import process_game
 
 MIN_NUMBER = 0
 MAX_NUMBER = 100

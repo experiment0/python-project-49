@@ -2,7 +2,7 @@ from random import randint
 from typing import List
 
 from brain_games import QuestionWithAnswer
-from brain_games.process_game import process_game
+from brain_games.games.process_game import process_game
 
 MIN_PROGRESSION_LENGTH = 5
 MAX_PROGRESSION_LENGTH = 10

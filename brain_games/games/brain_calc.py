@@ -2,7 +2,7 @@ from enum import Enum, auto
 from random import choice, randint
 
 from brain_games import QuestionWithAnswer
-from brain_games.process_game import process_game
+from brain_games.games.process_game import process_game
 
 MIN_GENERAL_NUMBER = 1
 
