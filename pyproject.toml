@@ -1,8 +1,5 @@
 [project]
 name = "hexlet-code"
-authors = [
-    {name = "Мария", email = "experiment0@yandex.ru"},
-]
 version = "0.1.0"
 description = "Учебный проект на Python с реализацией простых консольных игр"
 readme = "README.md"
